@@ -126,8 +126,7 @@
 // // places to put all the top menu items
 // JPanel buttons1 = new JPanel(new GridLayout(1, 3)); // top row of buttons
 // JPanel buttons2 = new JPanel(new GridLayout(1, 3)); // bottom row of buttons
-// JPanel buttonBar = new JPanel(new GridLayout(2, 2)); // combined layout of
-// buttons
+// JPanel buttonBar = new JPanel(new GridLayout(2, 2)); // combined layout of buttons
 // // buttonDisplay = new JPanel(new GridLayout(10, 10));
 
 // imageDisplay = new JPanel(new FlowLayout(FlowLayout.LEADING, 0, 0));
